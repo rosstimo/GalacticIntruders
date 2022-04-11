@@ -26,6 +26,16 @@ Module GalacticIntrudersGame
 
     Sub TimerEvent(ByVal source As Object, ByVal e As ElapsedEventArgs)
 
+        Console.Clear()
+        SetScreen()
+
+    End Sub
+
+    Sub SetScreen()
+
+        'This is a test meant for deletion later. Feel free to change and play with.
+        Console.Write(vbNewLine & vbNewLine & vbNewLine & vbNewLine & "X")
+
     End Sub
 
 End Module
