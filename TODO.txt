@@ -1,11 +1,31 @@
+
 Here are the tasks we need to get done so far:
-	- Console Animation
-		- Requires setting a size and creating code to develop an FPS on the console
-		- 11 FPS
-		- I think a set size would be easier to implement across computers
 
-	- Capturing Keycodes
+	- Console Animation (Frame Animation) - Miranda
+		-Requires setting a size and creating code to develop an FPS on the console
+
+	- Capturing Keycodes - Morgan
 		- We need to be able to read keys in the console without using Console.Readline. It has to be real time.
+		- event on key press to update 
 
-	- ???
+	- Character Design - Fallen
+		- ASCII 
+         	- Alien  - 4 x 2 poses each 
+		- flying saucer
+		- player 
+		- sheild - (decimate on hit)
+       	
+	- Projectile Design - Carson
+		- player
+		- Alien
+		- flying saucer
+		- collision detect
 
+	- Track and Display Score and lives remaining - Seth
+
+
+	- Title screen animation (this could be used as a screen saver) - Jamison
+		- cheat code from contra will give player 30 lives
+
+	- Game over animation - Jessica
+		Enter Initials if in the top 10 high scores
